@@ -13,5 +13,5 @@ C++ multithreaded files scanner
 .ext;.ext2:string to search;string to search 2
 ```
 
-## Perfomance
+## 23GB perfomance 
 ![perfomance](https://github.com/awend0/scan-util/blob/main/screenshots/perfomance.jpg?raw=true)
