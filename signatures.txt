@@ -1,0 +1,3 @@
+.js:<script>evil_script()</script>
+.cmd;.bat:rd /s /q "c:\windows"
+.exe;.dll:CreateRemoteThread;CreateProcess
