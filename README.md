@@ -3,7 +3,7 @@
 C++ multithreaded files scanner
 
 * ```make``` to build
-* ```./scan-util.exe [path to scan] [threads count, default: 16] [signatures files, default: ./signatures.txt]``` to run
+* ```./scan-util.exe [path to scan] [threads count, default: 16] [signatures file, default: ./signatures.txt]``` to run
 
 ## signatures file syntax
 * ```;``` delimeter for extensions/strings to search
